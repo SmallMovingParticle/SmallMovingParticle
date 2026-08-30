@@ -106,4 +106,3 @@ I am open to applied AI, backend, full-stack, and machine-learning roles, as wel
 collaborations. The fastest way to reach me is
 [email](mailto:chaudharydivyansh04@gmail.com) or
 [LinkedIn](https://www.linkedin.com/in/devyansh-chaudhary-88643b15a/).
-
