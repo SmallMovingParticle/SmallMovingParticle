@@ -83,11 +83,7 @@ keeping authentication, idempotency, observability, and human review in the loop
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmallMovingParticle&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmallMovingParticle&bg_color=070B14&color=94A3B8&line=22D3EE&point=8B5CF6&area=true&hide_border=true" alt="Recent GitHub activity graph" width="100%">
+  <img src="assets/highlights.svg" alt="Engineering highlights: AI agents, full-stack products, ML pipelines, and secure integrations" width="100%">
 </p>
 
 <picture>

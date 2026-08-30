@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title description">
+  <title id="title">Engineering highlights</title>
+  <desc id="description">AI agents, full-stack products, machine-learning pipelines, and secure integrations.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#11102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" rx="18" fill="url(#background)"/>
+  <text x="48" y="42" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">ENGINEERING HIGHLIGHTS</text>
+  <rect x="48" y="56" width="1104" height="2" rx="1" fill="url(#accent)" opacity="0.7"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(48 80)">
+      <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.45"/>
+      <circle cx="32" cy="30" r="8" fill="#22D3EE"/>
+      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">AI Agents</text>
+      <text x="24" y="68" fill="#94A3B8" font-size="14">Voice, tools, automation</text>
+    </g>
+    <g transform="translate(330 80)">
+      <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <circle cx="32" cy="30" r="8" fill="#38BDF8"/>
+      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">Full-Stack</text>
+      <text x="24" y="68" fill="#94A3B8" font-size="14">APIs, data, product UI</text>
+    </g>
+    <g transform="translate(612 80)">
+      <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#6366F1" stroke-opacity="0.5"/>
+      <circle cx="32" cy="30" r="8" fill="#6366F1"/>
+      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">ML Pipelines</text>
+      <text x="24" y="68" fill="#94A3B8" font-size="14">Training through serving</text>
+    </g>
+    <g transform="translate(894 80)">
+      <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#8B5CF6" stroke-opacity="0.55"/>
+      <circle cx="32" cy="30" r="8" fill="#8B5CF6"/>
+      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">Integrations</text>
+      <text x="24" y="68" fill="#94A3B8" font-size="14">Secure, observable, durable</text>
+    </g>
+  </g>
+</svg>
