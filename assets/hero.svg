@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Devyansh Chaudhary — Applied AI and Full-Stack Engineer</title>
+  <desc id="description">Dark particle-network banner in cyan and violet.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.55" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#11102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#64748B" stroke-opacity="0.09"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1015" cy="178" r="260" fill="url(#glow)"/>
+  <path d="M0 322C210 258 364 383 582 312S944 232 1200 303" fill="none" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="2"/>
+
+  <g fill="none" stroke="#22D3EE" stroke-opacity="0.34" stroke-width="1.5">
+    <path d="M820 77L926 42L1016 108L1122 63"/>
+    <path d="M820 77L877 170L1016 108L1088 193L1122 63"/>
+    <path d="M877 170L798 255L936 302L1088 193L1161 282"/>
+    <path d="M877 170L1000 229L1088 193"/>
+    <path d="M1000 229L936 302L1161 282"/>
+  </g>
+  <g filter="url(#softGlow)">
+    <g fill="#22D3EE">
+      <circle cx="820" cy="77" r="5"/><circle cx="926" cy="42" r="4"/><circle cx="1016" cy="108" r="6"/>
+      <circle cx="877" cy="170" r="5"/><circle cx="798" cy="255" r="4"/><circle cx="1000" cy="229" r="5"/>
+    </g>
+    <g fill="#8B5CF6">
+      <circle cx="1122" cy="63" r="5"/><circle cx="1088" cy="193" r="6"/><circle cx="936" cy="302" r="5"/>
+      <circle cx="1161" cy="282" r="4"/>
+    </g>
+  </g>
+
+  <rect x="72" y="58" width="220" height="32" rx="16" fill="#22D3EE" fill-opacity="0.1" stroke="#22D3EE" stroke-opacity="0.34"/>
+  <text x="182" y="79" text-anchor="middle" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">@SMALLMOVINGPARTICLE</text>
+  <text x="72" y="158" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750">DEVYANSH</text>
+  <text x="72" y="220" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750">CHAUDHARY</text>
+  <text x="75" y="266" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Applied AI + Full-Stack Engineer</text>
+  <text x="75" y="309" fill="#94A3B8" font-family="Consolas, monospace" font-size="15" letter-spacing="2">AI AGENTS  &#8226;  AUTOMATION  &#8226;  ML SYSTEMS</text>
+  <rect x="72" y="331" width="530" height="3" rx="2" fill="url(#accent)"/>
+</svg>
+
