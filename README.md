@@ -83,7 +83,7 @@ keeping authentication, idempotency, observability, and human review in the loop
 </p>
 
 <p align="center">
-  <img src="assets/highlights.svg" alt="Engineering highlights: AI agents, full-stack products, ML pipelines, and secure integrations" width="100%">
+  <img src="assets/highlights.svg" alt="Project trophy wall: AI agents, full-stack products, ML pipelines, and secure integrations" width="100%">
 </p>
 
 <picture>
