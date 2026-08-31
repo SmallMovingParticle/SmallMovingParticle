@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title description">
   <title id="title">Project trophy wall</title>
-  <desc id="description">AI agents, full-stack products, machine-learning pipelines, and secure integrations.</desc>
+  <desc id="description">Applied AI, full-stack products, machine-learning pipelines, and data systems.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070B14"/>
@@ -19,8 +19,8 @@
     <g transform="translate(48 80)">
       <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.45"/>
       <circle cx="32" cy="30" r="8" fill="#22D3EE"/>
-      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">AI Agents</text>
-      <text x="24" y="68" fill="#94A3B8" font-size="14">Voice, tools, automation</text>
+      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">Applied AI</text>
+      <text x="24" y="68" fill="#94A3B8" font-size="14">Practical model workflows</text>
     </g>
     <g transform="translate(330 80)">
       <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
@@ -37,8 +37,8 @@
     <g transform="translate(894 80)">
       <rect width="258" height="92" rx="14" fill="#0F172A" stroke="#8B5CF6" stroke-opacity="0.55"/>
       <circle cx="32" cy="30" r="8" fill="#8B5CF6"/>
-      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">Integrations</text>
-      <text x="24" y="68" fill="#94A3B8" font-size="14">Secure, observable, durable</text>
+      <text x="52" y="36" fill="#F8FAFC" font-size="20" font-weight="700">Data Systems</text>
+      <text x="24" y="68" fill="#94A3B8" font-size="14">Ingestion through delivery</text>
     </g>
   </g>
 </svg>

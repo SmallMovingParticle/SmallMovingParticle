@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+secure+AI+agents+that+act+in+the+real+world;Shipping+Python+APIs%2C+full-stack+products+and+ML+systems;Open+to+engineering+roles+and+freelance+collaborations" alt="Animated introduction">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+applied+AI+and+machine-learning+systems;Shipping+Python+APIs%2C+full-stack+products+and+data+tools;Open+to+engineering+roles+and+freelance+collaborations" alt="Animated introduction">
   </a>
 </p>
 
@@ -17,36 +17,30 @@
 
 ## What I build
 
-I turn applied AI ideas into reliable products: agent workflows, Python services, full-stack operations tools,
-and machine-learning applications. My recent work focuses on systems that connect models to real APIs while
-keeping authentication, idempotency, observability, and human review in the loop.
+I turn applied AI ideas into useful software: Python services, data tools, full-stack products, and
+machine-learning applications. My public work spans automation, security, classification, regression, NLP,
+and practical model-serving demos.
 
-- **AI automation:** voice agents, messaging workflows, tool calling, scheduling, and CRM handoffs.
-- **Full-stack products:** FastAPI backends, Next.js interfaces, PostgreSQL data models, and cloud deployments.
-- **Machine learning:** practical prediction pipelines, NLP experiments, deep learning, and model-serving apps.
+- **Applied machine learning:** classification, regression, NLP experiments, and model evaluation.
+- **Python systems:** APIs, data ingestion, reusable training pipelines, and experiment tracking.
+- **Full-stack products:** clear interfaces backed by dependable services and data workflows.
 
-## Featured build — RPT Outreach Platform
+## Featured build — AI Outreach Platform
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SmallMovingParticle/rpt_outbound_call_sms_agent">AI Outreach Agent</a></h3>
-      <p>A pre-production FastAPI system coordinating Vapi voice calls, Twilio SMS, Stride scheduling, Supabase, durable retries, and a signed CRM handoff.</p>
+      <h3><a href="https://github.com/SmallMovingParticle/rpt_outbound_call_sms_agent">Outreach Agent Backend</a></h3>
+      <p>A pre-production FastAPI system coordinating voice, messaging, scheduling, persistence, durable retries, and CRM handoffs.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SmallMovingParticle/rpt_frontend">Operations CRM</a></h3>
+      <h3><a href="https://github.com/SmallMovingParticle/rpt_frontend">Operations CRM Frontend</a></h3>
       <p>A protected Next.js workspace for lead intake, outreach monitoring, appointments, review queues, templates, provider health, and analytics.</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Vercel</code></p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/SmallMovingParticle/rpt_frontend">
-    <img src="https://raw.githubusercontent.com/SmallMovingParticle/rpt_outbound_call_sms_agent/main/dashboard/salesforce-concept-v4-final/02-leads-board.jpg" alt="Synthetic RPT lead pipeline concept" width="820">
-  </a>
-</p>
 
 ## More projects
 
@@ -83,7 +77,7 @@ keeping authentication, idempotency, observability, and human review in the loop
 </p>
 
 <p align="center">
-  <img src="assets/highlights.svg" alt="Project trophy wall: AI agents, full-stack products, ML pipelines, and secure integrations" width="100%">
+  <img src="assets/highlights.svg" alt="Project trophy wall: applied AI, full-stack products, ML pipelines, and data systems" width="100%">
 </p>
 
 <picture>
